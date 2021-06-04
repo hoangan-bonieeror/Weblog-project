@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Weblog-project/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/Weblog-project/static/js/main.3029b11d.chunk.js",
+    "main.js.map": "/Weblog-project/static/js/main.3029b11d.chunk.js.map",
+    "runtime-main.js": "/Weblog-project/static/js/runtime-main.1aac4527.js",
+    "runtime-main.js.map": "/Weblog-project/static/js/runtime-main.1aac4527.js.map",
+    "static/js/2.4336a92c.chunk.js": "/Weblog-project/static/js/2.4336a92c.chunk.js",
+    "static/js/2.4336a92c.chunk.js.map": "/Weblog-project/static/js/2.4336a92c.chunk.js.map",
+    "static/js/3.5bca970a.chunk.js": "/Weblog-project/static/js/3.5bca970a.chunk.js",
+    "static/js/3.5bca970a.chunk.js.map": "/Weblog-project/static/js/3.5bca970a.chunk.js.map",
+    "index.html": "/Weblog-project/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/Weblog-project/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.4336a92c.chunk.js.LICENSE.txt": "/Weblog-project/static/js/2.4336a92c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Weblog-project/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1aac4527.js",
+    "static/js/2.4336a92c.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.3029b11d.chunk.js"
+  ]
+}
